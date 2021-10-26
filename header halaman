@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML heading</title>
+</head>
+<body>
+
+	<!-- digunakan untuk membuat judul -->
+	<h1>judul utama</h1>		
+	<h2>sub bab 2</h2>
+	<h3>sub bab3</h3>
+	<h4>sub bab 4</h4>
+	<h5>dan seterusnya</h5>
+</body>
+</html>
